@@ -56,4 +56,10 @@ The project is currently for experiment and test only.
 
 The deeplink for the dropdown button is possible to change in the future when needed. In the case it changes, any user of this sample code may need to update your code.
 
+The deeplink can successfully open an Office document with your add-in and the end users can use your add-in for below scenarios only.
+
+1. The add-in is public published, so that it can be found from Office AppSource https://appsource.microsoft.com/.
+
+2. The Office store is enabled for the end user.
+
 
