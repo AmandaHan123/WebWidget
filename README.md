@@ -2,6 +2,8 @@
 
 The webpage will show the add-in name, a short description of the add-in, a few details about the add-in functionality for highlight, a dropdown button to install and use the add-in and a video to demo the add-in. This is how the UI looks like.
 
+<img alt="DemoUI.png" src="https://github.com/AmandaHan123/WebWidget/blob/main/DemoUI.png?raw=true">
+
 ![image](https://github.com/AmandaHan123/WebWidget/assets/97148607/191518de-c4b9-48b1-9b63-cd2504bd6c45)
 
 
