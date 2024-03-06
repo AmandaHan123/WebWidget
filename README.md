@@ -1,11 +1,11 @@
 # Sample code for the Web Widget that promote the Office add-in.
 
-The webpage will show the add-in name, a short description of the add-in, a few details about the add-in functionality for highlight, a dropdown button to install and use the add-in and a video to demo the add-in. This is how the UI looks like.
+The webpage will show the add-in name, a short description of the add-in, a few details about the add-in functionality for highlight, a dropdown button to install and use the add-in and a video to demo the add-in. This is what the UI looks like.
 
 <img alt="DemoUI.png" src="https://github.com/AmandaHan123/WebWidget/blob/main/DemoUI.png?raw=true">
 
-![image](https://github.com/AmandaHan123/WebWidget/assets/97148607/191518de-c4b9-48b1-9b63-cd2504bd6c45)
-
+> [!TIP]
+> If you want a simple trial on the dropdown button link that enables user to install and use add-in, please use https://amandahan123.github.io/.
 
 ## Usage
 
